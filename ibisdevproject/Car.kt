@@ -1,0 +1,3 @@
+package com.victoriaBermudez.ibisdevproject
+
+data class Car(val ownerId: String, val carId: String, val title:String, val doors:Int, val cost:Int, val url:String, val fuelType:String, val description:String, val modelDescription:String, val brandDescription:String, val placeDescription:String, val latitude:String, val longitude:String, val location:String, val calificationsAvg:Float, val currency:String, val year:Int)
